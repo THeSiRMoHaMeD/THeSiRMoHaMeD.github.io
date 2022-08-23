@@ -1,0 +1,112 @@
+# THeSiRMoHaMeD.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Blog</title>
+        <style>
+            body{
+                background:rgb(255,240,225);
+            }
+            #Qudrat{
+                color:rgb(9, 13, 237);
+            }
+            #suu{
+                font-weight:bold;
+                color:rgb(85, 99, 85);
+                font-style:italic;
+            }
+            #js {
+                color:rgb(18, 232, 211);
+            }
+            #fun {
+                color:rgb(242, 5, 76);
+            }
+            #ok{
+                font-family:cursive;
+                background:rgb(233, 242, 242);
+                text-align:center;
+                font-size:20px;
+            }
+            #table{
+                background:rgb(227, 195, 227);
+				text-align:center;
+				font-family:cursive;
+            }
+        .s{
+            font-size:18px;
+            line-height:1.3em;
+        }
+        .l{
+           font-size:18px;
+            line-height:1.3em; 
+           color:rgb(2, 8, 2444); 
+        }
+        .k{
+            font-size:18px;
+            line-height:1.3em;
+            color:rgb(256, 9, 6); 
+        }
+        #thel{
+           
+           font-family:cursive;
+        }
+		body{
+		 
+		}
+        </style>
+    </head>
+    <body>
+        
+        <h1>My journey's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href ="#Qudrat">The Aptitude test</a></li>
+            <li><a href ="#js">I want to Program!</a></li>
+            <li><a href ="#fun">The Proplems</a></li>
+        </ul> 
+        
+        <h2 id = "Qudrat">The Aptitude test</h2>
+        <h4>What is this test</h4>
+        <table id ="table">
+            <thead>
+                <tr>
+                    <th class = "s">what is this</th>
+                    <th class = "l"> Lafzy</th>
+                    <th class = "k"> kamy</th>
+                </tr>
+                <tr>
+                    <td class = "s"> what this is </td>
+                    <td class = "l"> Understanding language relationships </td>
+                    <td  class = "k"> Just a math questions</td>
+                </tr>
+				<tr>
+					<td class = "s"> Number of questions </td>
+					<td class = "l">  48 </td>
+                    <td  class = "k">  48 too </td>
+				
+				</tr>
+            </thead>
+        </table>
+        <p>It was a long journey that started from 25/9/2021 and it was only for:</p>
+        <p id ="suu"> The one HUNDRED </p>
+        <p id = "ok">And Yeah I did it and in 17/7/2022 I enterd The test and
+		acheived my goal I got the <em>hundred</em> this hundered was the starting point
+		that opened all The options for me And it gave me the push to try new things!!!</p>
+        <h2 id = "js">I want to Program!</h2>
+         <p> Here I am , As you see I found This amazing & free website to to complete my 
+		 journey with and I tend to learn </p><ul>
+             <li>JavaScript</li>
+             <li>HTML</li>
+             <li>CSS</li>
+             <li>And of Course <strong>Some Math</strong></li>
+             
+         </ul>
+        <h2 id = "fun">The Proplems</h2>
+        <p id = "thel"> Of course I met a lot of proplems during my journey like : </p>
+		<ul>
+		<li>showing The test result to my friend's and relatives </li>
+		</ul>
+	</body>
+</html>
