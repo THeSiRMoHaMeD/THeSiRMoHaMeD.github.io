@@ -1,3 +1,4 @@
+get clone https://githup.com/THeSiRMoHaMeD/THeSiRMoHaMeD.githup.io
 <!DOCTYPE html>
 <html>
     <head>
@@ -5,7 +6,7 @@
         <title>Blog</title>
         <style>
             body{
-                background:rgb(255,240,225);
+                background:rgb(255,250,225);
             }
             #Qudrat{
                 color:rgb(9, 13, 237);
